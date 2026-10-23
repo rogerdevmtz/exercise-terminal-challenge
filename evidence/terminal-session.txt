@@ -1,0 +1,324 @@
+++ __vsc_preexec_only -x
+++ '[' 1 = 0 ']'
++ cd thecmdchallenge
+++ __vsc_preexec_only thecmdchallenge
+++ '[' 1 = 0 ']'
++ pwd
+/workspaces/exercise-terminal-challenge/thecmdchallenge
+++ __vsc_preexec_only pwd
+++ '[' 1 = 0 ']'
++ ls --color=auto -a
+.
+..
+boringfolder
+console_master.md
+funcode
+kamehameha
+small-name
+++ __vsc_preexec_only -a
+++ '[' 1 = 0 ']'
++ ls --color=auto -R
+.:
+boringfolder
+console_master.md
+funcode
+kamehameha
+small-name
+
+./boringfolder:
+babel.png
+breathecode.shadow.png
+c9.png
+css3.png
+dropzone.js
+even-more-boring
+hello.txt
+html5.png
+jquery.png
+js.png
+sass.png
+scale.fix.js
+webpack.png
+
+./boringfolder/even-more-boring:
+i-cant-believe-how-boring
+
+./boringfolder/even-more-boring/i-cant-believe-how-boring:
+the-ultimate-boring-inception
+
+./boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception:
+myfirstcopy.txt
+the-mostboring-text.txt
+
+./funcode:
+baby.jpg
+baby.success.1.jpg
+baby.success.jpg
+borat.success.1.jpg
+borat.success.jpg
+einstein.1.png
+einstein.png
+forms.1.html
+forms.html
+frame.1.html
+frame.html
+images
+invalid.png
+keyboard.1.html
+keyboard.html
+kids.1.jpg
+kids.jpg
+mouse.1.html
+mouse.html
+regexer.1.css
+regexer.1.js
+regexer.css
+regexer.js
+rigoberto.1.jpg
+rigoberto.jpg
+scared-baby.1.jpg
+scared-baby.jpg
+script.js
+the-most-funny
+valid.png
+view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+
+./funcode/images:
+hello
+
+./funcode/images/hello:
+invalid.png
+
+./funcode/the-most-funny:
+lol
+
+./funcode/the-most-funny/lol:
+the-ultimate-joke.txt
+
+./kamehameha:
+dragon-ball-jokes.md
+
+./small-name:
+bigger-name-than-before
+
+./small-name/bigger-name-than-before:
+omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type
+
+./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type:
+this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious
+
+./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious:
+trophy.txt
+++ __vsc_preexec_only -R
+++ '[' 1 = 0 ']'
++ clear
+[H[2J[3J++ __vsc_preexec_only clear
+++ '[' 1 = 0 ']'
++ challenge_root=/workspaces/exercise-terminal-challenge/thecmdchallenge
+++ __vsc_preexec_only ''
+++ '[' 1 = 0 ']'
++++ find small-name -name trophy.txt -print -quit
+++ dirname small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
++ cd small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious
+++ __vsc_preexec_only small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious
+++ '[' 1 = 0 ']'
++ cat trophy.txt
+MMMMMMMMMMMNhoooooooooosyymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdysooo++oo+ooymMMMMMMMM
+MMMMMMMMMMNsohMMMMMMMNNmho/hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNsohdmNMMMMMMMdo+dMMMMMMM
+MMMMMMMMMMh+yMMMMMMMMMMMMs++NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+oMMMMMMMMMMMMho/MMMMMMM
+MMMMMMMMMMs+hMMMMMMMMMMMMy+/NMMMMMNNNmmddddddddddhhhhhhhhdddmmmmNNNMMMMMMMMd+oMMMMMMMMMMMMmo/dMMMMMM
+MMMMMMMMMMy+hMMMMMMMMMMMMh+/dNhysssoooooooooooo++++++++++ooooossssssyyhhdNMy+yMMMMMMMMMMMMdo/dMMMMMM
+MMMMMMMMMMh+sMMMMMMMMMMMMNho++oossoooooooo+++++/////////++++++ooooooosssooo+yNMMMMMMMMMMMMy+/NMMMMMM
+MMMMMMMMMMNo+mMMMMMMMMMMMMMMNmossssooooo++++++///////////+++++ooooooosysodmNMMMMMMMMMMMMMNs+oMMMMMMM
+MMMMMMMMMMMy+oMMMMMMMMMMMMMMMmoossoooooo++++++///////////+++++ooooooosssomMMMMMMMMMMMMMMMh+/mMMMMMMM
+MMMMMMMMMMMNo/hMMMMMMMMMMMMMMmoossoooooo+++++////////////+++++++++++osso+mMMMMMMMMMMMMMMmo/yMMMMMMMM
+MMMMMMMMMMMMd++dMMMMMMMMMMMMMNoossoo+++++++++////////////+++++++++++osso+mMMMMMMMMMMMMMNs/+NMMMMMMMM
+MMMMMMMMMMMMMh++mMMMMMMMMMMMMmoooso++++++++++////////////+++++++++++osso+NMMMMMMMMMMMMNy++mMMMMMMMMM
+MMMMMMMMMMMMMMy/+mMMMMMMMMMMMNo+ooo+++++++++++///////////+++++++++++oso++NMMMMMMMMMMMMy//mMMMMMMMMMM
+MMMMMMMMMMMMMMMy//dMMMMMMMMMMNo++o++++++++++++///////////+++++++++/+ooo+oNMMMMMMMMMMMy//mMMMMMMMMMMM
+MMMMMMMMMMMMMMMMh+/hMMMMMMMMMMs+++++++//+++++++/////////+++++++////+oo+/sMMMMMMMMMMNs/+mMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMh+/yMMMMMMMMMy/+++//////+++++++///////+++++++/////+oo+/yMMMMMMMMMNo/oNMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMmo/+mMMMMMMMm//++///////++++++++///+++++++++/////+o+//mMMMMMMMMd+/yMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNy//yNMMMMMMo///////////++++++++++++++++++//////+o//oMMMMMMMNs/+mMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMdo/+dMMMMMd///////////////////////////////::/+++//dMMMMMNh//yNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMNh+:omMMMMs/////:::::::::::::::::::::::::::/++/:sMMMMNh//sNMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMmy//omMMN+////::::::::::::::::::::::::::/++/:+NMMNh//smMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMmy//odMm/////:::::::::::::::::::::::::/+/:/mMms//smMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+/+yh/////:::::::::::::::::::::::/+/::yh+/+hmMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNds+//::///::::::::::---------::/+/::/++ydNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdyo/::/:::---------------:://::/oydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/:::::-------------::/::/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+:---------------:::+hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdso/:-------::/ohmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:::---/dmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/:::::sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+//:::dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs+//::NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd++/:+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdo+/:+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNyoo+/:/odMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo+/:/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+/:oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+//sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoo+/+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhooo+/+oddmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhssyssoo++oosysydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhysoooooooooooooooooooshmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNhsoooooooooooooooooooooooooosymNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNmdhssooooooooooooooooossyyhdmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNmmdddhhhhhhhhhdddmmNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddddyyyyyysssssssssssssssssyddddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddhy+++////:::::-----------/ohddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMNdddddddddho+++////:::::-----------::hddddddddddmNMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmddddddddddoo+++++////////////////oddddddddddddmNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMddddddddddddddddddddddddddddddddddddddddddddddddddddddMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNNNNNNNNmddddddddddddddddddddddddddddddddddddddddddddddddddddmNNNNNNNNMMMMMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMM++ __vsc_preexec_only trophy.txt
+++ '[' 1 = 0 ']'
++ cd /workspaces/exercise-terminal-challenge/thecmdchallenge/funcode
+++ __vsc_preexec_only /workspaces/exercise-terminal-challenge/thecmdchallenge/funcode
+++ '[' 1 = 0 ']'
++ ls --color=auto regexer.1.js regexer.js script.js
+regexer.1.js
+regexer.js
+script.js
+++ __vsc_preexec_only script.js
+++ '[' 1 = 0 ']'
++ mkdir -p the-most-funny/not-that-funny
+++ __vsc_preexec_only the-most-funny/not-that-funny
+++ '[' 1 = 0 ']'
++ cd /workspaces/exercise-terminal-challenge/thecmdchallenge
+++ __vsc_preexec_only /workspaces/exercise-terminal-challenge/thecmdchallenge
+++ '[' 1 = 0 ']'
+++ find boringfolder -name the-mostboring-text.txt -print -quit
++ cp boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt lol.txt
+++ __vsc_preexec_only lol.txt
+++ '[' 1 = 0 ']'
++ mkdir -p funcode/images/hello
+++ __vsc_preexec_only funcode/images/hello
+++ '[' 1 = 0 ']'
++ mv funcode/kids.jpg funcode/images/hello/
+++ __vsc_preexec_only funcode/images/hello/
+++ '[' 1 = 0 ']'
++ rmdir funcode/remove-me
+rmdir: failed to remove 'funcode/remove-me': No such file or directory
+++ __vsc_preexec_only funcode/remove-me
+++ '[' 1 = 0 ']'
++ rm -r small-name
+++ __vsc_preexec_only small-name
+++ '[' 1 = 0 ']'
++ cat funcode/the-most-funny/lol/the-ultimate-joke.txt
+What do you call a programmer from Finland? ..... NERDIC!
+
+Got it?? :)
+++ __vsc_preexec_only funcode/the-most-funny/lol/the-ultimate-joke.txt
+++ '[' 1 = 0 ']'
++ find boringfolder -mindepth 1 -delete
+++ __vsc_preexec_only -delete
+++ '[' 1 = 0 ']'
++ set +x
+]633;D;0]633;P;Cwd=/workspaces/exercise-terminal-challenge/thecmdchallenge[?2004h]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;Bv]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B[Ci kamehameha/dragon-ball-jokes.md
+[?2004l]633;E;vi kamehameha/dragon-ball-jokes.md;ab559ddc-b94a-4a67-a66c-2c0135439eca]633;CVim: Warning: Output is not to a terminal
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;65r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[65;1H"kamehameha/dragon-ball-jokes.md" [Incomplete last line] 29 lines, 1060 bytes[1;1HWhere do you put Vegeta after you kill him? In the Frieza.
+
+What did Beerus say to Goku? Why don't you tell your son to "Gohan" home.
+
+How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+
+I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan"
+
+What do Saiyans wear to the beach? Trunks.
+
+What did Vegeta say when he got his tuition bill? "It's over 9000"
+
+Where does Vegeta get the energy to fly? Red Bullma, it gives you wings.
+
+What is Goku's favorite instrument of destruction? A Piccolo (flute).
+
+How do you get in touch with an android? By using a CELL Phone.
+
+Did you know Frieza wasn't very popular in school? His brother was COOLER.
+
+Me: How do you make Dragon Ball Z less gay? Shenron: "Your wish is far beyond my power."
+
+What does an elite saiyan warrior need to fix a car? Nappa know how.
+
+I cut off a monkeys tail and now he's just a vegeta-ble.
+
+Hey, Vegeta I heard you have a hole in your Trunks. -Cell
+
+source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
+[94m~                                                                                                                                                                                                                                                                                                       [31;1H~                                                                                                                                                                                                                                                                                                       [32;1H~                                                                                                                                                                                                                                                                                                       [33;1H~                                                                                                                                                                                                                                                                                                       [34;1H~                                                                                                                                                                                                                                                                                                       [35;1H~                                                                                                                                                                                                                                                                                                       [36;1H~                                                                                                                                                                                                                                                                                                       [37;1H~                                                                                                                                                                                                                                                                                                       [38;1H~                                                                                                                                                                                                                                                                                                       [39;1H~                                                                                                                                                                                                                                                                                                       [40;1H~                                                                                                                                                                                                                                                                                                       [41;1H~                                                                                                                                                                                                                                                                                                       [42;1H~                                                                                                                                                                                                                                                                                                       [43;1H~                                                                                                                                                                                                                                                                                                       [44;1H~                                                                                                                                                                                                                                                                                                       [45;1H~                                                                                                                                                                                                                                                                                                       [46;1H~                                                                                                                                                                                                                                                                                                       [47;1H~                                                                                                                                                                                                                                                                                                       [48;1H~                                                                                                                                                                                                                                                                                                       [49;1H~                                                                                                                                                                                                                                                                                                       [50;1H~                                                                                                                                                                                                                                                                                                       [51;1H~                                                                                                                                                                                                                                                                                                       [52;1H~                                                                                                                                                                                                                                                                                                       [53;1H~                                                                                                                                                                                                                                                                                                       [54;1H~                                                                                                                                                                                                                                                                                                       [55;1H~                                                                                                                                                                                                                                                                                                       [56;1H~                                                                                                                                                                                                                                                                                                       [57;1H~                                                                                                                                                                                                                                                                                                       [58;1H~                                                                                                                                                                                                                                                                                                       [59;1H~                                                                                                                                                                                                                                                                                                       [60;1H~                                                                                                                                                                                                                                                                                                       [61;1H~                                                                                                                                                                                                                                                                                                       [62;1H~                                                                                                                                                                                                                                                                                                       [63;1H~                                                                                                                                                                                                                                                                                                       [64;1H~                                                                                                                                                                                                                                                                                                       [1;1H[?25h[?4m[?25l[m[65;1H[K[65;1H:[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[65;1H[K[65;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m]633;D;0]633;P;Cwd=/workspaces/exercise-terminal-challenge/thecmdchallenge[?2004h]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;Bv]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B[Ci kamehameha/dragon-ball-jokes.md >/dev/tty 2>&1
+[?2004l]633;E;vi kamehameha/dragon-ball-jokes.md > /dev/tty 2>&1;ab559ddc-b94a-4a67-a66c-2c0135439eca]633;C]633;D;0]633;P;Cwd=/workspaces/exercise-terminal-challenge/thecmdchallenge[?2004h]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;Bc]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge/thecmdchallenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B[Cd ..; python3 -c 'from pathlib import Path; import subprocess; r=Path("thecmdchallenge"); original=lambda p: subprocess.check_output(["git","show","HEAD:thecmdchallenge/"+p]); assert not (r/"small-name").exists();  assert (r/"funcode/the-most-funny/not-that-funny").is_dir(); assert (r/"boringfolder").is_dir() and not list((r/"boringfolder").iterdir()); assert (r/"funcode/images/hello/kids.jpg").read_bytes()==original("funcode/kids.jpg"); assert not (r/"funcode/kids.jpg").exists(); p="boringfolder/even-mor e-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt"; assert (r/"lol.txt").read_bytes()==original(p); assert (r/"kamehameha/dragon-ball-jokes.md").read_bytes().rstrip()==b"".join(original("kamehameha/dragon-ball-jokes.md").splitlines(keepends=True)[2:]).rstrip(); print("PASS: 7 comprobaciones de archivos y edicion vi"); Path("evidence/verification.txt").write_text("PASS: directorio small-name eliminado\nPASS: not-that-funny creado\nPASS: boringfolder conservado vacio\nPASS: kids.jpg movido sin alterar\nPASS: origen kids.jpg ausente\nPASS: lol.txt co pia exacta\nPASS: solo primer chiste eliminado con vi\n")'; git diff --stat; git status --short
+[?2004l]633;E;cd ..;ab559ddc-b94a-4a67-a66c-2c0135439eca]633;Cbash: python3: command not found
+ thecmdchallenge/boringfolder/babel.png             |  Bin 31603 -> 0 bytes
+ .../boringfolder/breathecode.shadow.png            |  Bin 50556 -> 0 bytes
+ thecmdchallenge/boringfolder/c9.png                |  Bin 32484 -> 0 bytes
+ thecmdchallenge/boringfolder/css3.png              |  Bin 26017 -> 0 bytes
+ thecmdchallenge/boringfolder/dropzone.js           | 1767 --------------------
+ .../the-ultimate-boring-inception/myfirstcopy.txt  |    8 -
+ .../the-mostboring-text.txt                        |    8 -
+ thecmdchallenge/boringfolder/hello.txt             |   52 -
+ thecmdchallenge/boringfolder/html5.png             |  Bin 23612 -> 0 bytes
+ thecmdchallenge/boringfolder/jquery.png            |  Bin 16703 -> 0 bytes
+ thecmdchallenge/boringfolder/js.png                |  Bin 22359 -> 0 bytes
+ thecmdchallenge/boringfolder/sass.png              |  Bin 33589 -> 0 bytes
+ thecmdchallenge/boringfolder/scale.fix.js          |   17 -
+ thecmdchallenge/boringfolder/webpack.png           |  Bin 17213 -> 0 bytes
+ thecmdchallenge/funcode/kids.jpg                   |  Bin 57184 -> 0 bytes
+ thecmdchallenge/kamehameha/dragon-ball-jokes.md    |    4 +-
+ .../trophy.txt                                     |   63 -
+ 17 files changed, 1 insertion(+), 1918 deletions(-)
+ D thecmdchallenge/boringfolder/babel.png
+ D thecmdchallenge/boringfolder/breathecode.shadow.png
+ D thecmdchallenge/boringfolder/c9.png
+ D thecmdchallenge/boringfolder/css3.png
+ D thecmdchallenge/boringfolder/dropzone.js
+ D thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/myfirstcopy.txt
+ D thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt
+ D thecmdchallenge/boringfolder/hello.txt
+ D thecmdchallenge/boringfolder/html5.png
+ D thecmdchallenge/boringfolder/jquery.png
+ D thecmdchallenge/boringfolder/js.png
+ D thecmdchallenge/boringfolder/sass.png
+ D thecmdchallenge/boringfolder/scale.fix.js
+ D thecmdchallenge/boringfolder/webpack.png
+ D thecmdchallenge/funcode/kids.jpg
+ M thecmdchallenge/kamehameha/dragon-ball-jokes.md
+ D thecmdchallenge/small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+?? evidence/
+?? thecmdchallenge/funcode/images/hello/kids.jpg
+?? thecmdchallenge/lol.txt
+]633;D;0]633;P;Cwd=/workspaces/exercise-terminal-challenge[?2004h]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B{]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B[C test ! -e thecmdchallenge/small-name && test -d thecmdchallenge/funcode/the-most-funny/not-that-funny && test -d thecmdchallenge/boringfolder && test -z "$(find thecmdchallenge/boringfolder -mindepth 1 -print -quit)" && test ! - e thecmdchallenge/funcode/kids.jpg && cmp thecmdchallenge/funcode/images/hello/kids.jpg <(git show HEAD:thecmdchallenge/funcode/kids.jpg) && cmp thecmdchallenge/lol.txt <(git show HEAD:thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt) && diff -Z <(git show HEAD:thecmdchallenge/kamehameha/dragon-ball-jokes.md | tail -n +3) thecmdchallenge/kamehameha/dragon-ball-jokes.md && printf 'PASS: todas las comprobaciones del reto\n'; } | tee evidence/verification.txt; git diff -- thecmdchallenge/kamehameha/dragon-ball-jokes.md
+[?2004l]633;E;tee evidence/verification.txt;ab559ddc-b94a-4a67-a66c-2c0135439eca]633;CPASS: todas las comprobaciones del reto
+diff --git a/thecmdchallenge/kamehameha/dragon-ball-jokes.md b/thecmdchallenge/kamehameha/dragon-ball-jokes.md
+index a236e75..66447df 100644
+--- a/thecmdchallenge/kamehameha/dragon-ball-jokes.md
++++ b/thecmdchallenge/kamehameha/dragon-ball-jokes.md
+@@ -1,5 +1,3 @@
+-Where do you put Vegeta after you kill him? In the Frieza. 
+-
+ What did Beerus say to Goku? Why don't you tell your son to "Gohan" home. 
+ 
+ How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+@@ -26,4 +24,4 @@ I cut off a monkeys tail and now he's just a vegeta-ble.
+ 
+ Hey, Vegeta I heard you have a hole in your Trunks. -Cell 
+ 
+-source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
+\ No newline at end of file
++source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
+]633;D;0]633;P;Cwd=/workspaces/exercise-terminal-challenge[?2004h]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B[K]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;Bp]633;A[0;32m@rogerdevmtz [0m➜ [1;34m/workspaces/exercise-terminal-challenge [0;36m([1;31mmaster[0;36m) [0m$ ]633;B[Crintf '%s\n' '# El reto de la terminal' 'Resuelto en Codespaces con Bash. Ver evidence/verification.txt y terminal-session.txt.' 'Ejecutados pwd, ls -a, ls -R, clear, cd, cat trophy.txt, ls *.js, mkdir, cp, mv, rm y find.' 'Prime r chiste eliminado usando vi: gg, 2dd, :wq.' 'Git no conserva carpetas vacias. Recrear boringfolder y funcode/the-most-funny/not-that-funny con mkdir -p tras clonar.' 'remove-me no existe en esta version inicial del repositorio.' > SOLUCION.md; exec >/dev/tty 2>&1; git add SOLUCION.md evidence t hecmdchallenge; git commit -m 'Complete terminal challenge in Codespaces'; git push origin master
+[?2004l]633;E;printf '%s\\n' '# El reto de la terminal' 'Resuelto en Codespaces con Bash. Ver evidence/verification.txt y terminal-session.txt.' 'Ejecutados pwd, ls -a, ls -R, clear, cd, cat trophy.txt, ls *.js, mkdir, cp, mv, rm y find.' 'Primer chiste eliminado usando vi: gg, 2dd, :wq.' 'Git no conserva carpetas vacias. Recrear boringfolder y funcode/the-most-funny/not-that-funny con mkdir -p tras clonar.' 'remove-me no existe en esta version inicial del repositorio.' > SOLUCION.md;ab559ddc-b94a-4a67-a66c-2c0135439eca]633;C
